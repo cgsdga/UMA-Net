@@ -17,6 +17,7 @@ In current convolution-based image dehazing networks, a common approach to impro
 
 ## 2.Clone repository and download dataset.
 `git clone https://github.com/weiyunsong/UMA-Net.git`
+
 `dataset: https://sites.google.com/view/reside-dehaze-datasets/reside-standard`
 
 ## 3 training and test
