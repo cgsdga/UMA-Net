@@ -15,8 +15,9 @@ In current convolution-based image dehazing networks, a common approach to impro
 `pip install  opencv-python pytorch-msssim==0.2.1 timm==0.5.4 tqdm thop fvcore tensorboardx==2.5.1 `
 
 
-## 2.Clone repository.
+## 2.Clone repository and download dataset.
 `git clone https://github.com/weiyunsong/UMA-Net.git`
+`dataset: https://sites.google.com/view/reside-dehaze-datasets/reside-standard`
 
 ## 3 training and test
 
